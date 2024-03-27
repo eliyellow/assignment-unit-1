@@ -61,4 +61,9 @@ if (temp > 65 && isRaining === false) {
    // ! flips from true to false
    isRaining = !isRaining;
 
-
+   // Multiplication
+  let finalTotal = (total / 2) * 1.07; 
+   // Division
+  total = total / 2;
+   // Subtraction
+  total = total / 10;
