@@ -67,3 +67,13 @@ if (temp > 65 && isRaining === false) {
   total = total / 2;
    // Subtraction
   total = total / 10;
+
+   //declare a variable to store a book title
+   let title = '';
+   // check to see if that book contains the word 'The'
+   if (title === 'The') {
+
+   }
+   //display true or false
+
+   
